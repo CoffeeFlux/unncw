@@ -1,0 +1,7 @@
+[package]
+name = "unncw"
+version = "0.1.0"
+authors = ["John Smith <john.smith@example.com>"]
+edition = "2018"
+
+[dependencies]
